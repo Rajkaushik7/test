@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+text of branch one
+=======
+text of file two
+>>>>>>> e688d1628e5ea368d1b51e509b7226b0b404b658
